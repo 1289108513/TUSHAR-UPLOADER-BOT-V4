@@ -79,7 +79,7 @@ broadcast - Broadcast A Message To All Users 🌝
 * `BOT_TOKEN` Get it from [@Botfather](https://t.me/botfather)
 
 * `DATABASE_URL` Get It From MongoDB Web
-Check How To Make MONGODB URL or [YouTube](https://youtu.be/VudXkbirhM8?feature=shared)
+Check How To Make MONGODB URL or [YouTube]
 
 * `OWNER_ID` Your telegram I'd use this bot [@UploadLinkToFileBot](https://telegram.dog/UploadLinkToFileBot) and use `/info`
 
@@ -94,11 +94,9 @@ Check How To Make MONGODB URL or [YouTube](https://youtu.be/VudXkbirhM8?feature=
 
 <b><details><summary>Tap On See My Community Details</summary>
 
-- YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=shared)
-- Telegram Channel : [NT Bots ❤️‍🩹](https://t.me/NT_BOT_CHANNEL)
-- Telegram Group : [NT Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
-- URL Uploader Bot : [Uploader Bot V4 🚀](https://t.me/UploadLinkToFileBot)
-- My Tg Id : [Lisa 👑](https://t.me/LISA_FAN_LK)
+- Telegram Channel : [Update Channel🛎️](https://t.me/forwardtushar)
+- URL Uploader Bot : [Uploader Bot V4 🚀](http://t.me/tushar_uploader_bot)
+- My Tg Id : [Tushar 👑](https://t.me/Tushar_1665)
 
 </b>
 </details>
